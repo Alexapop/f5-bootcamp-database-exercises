@@ -1,6 +1,6 @@
-# Bootcamp de Bases de Datos
+# Ejercicios de Bases de Datos
 
-Este repositorio recoge los ejercicios del bootcamp de bases de datos de Factoria F5. Cada mini proyecto contiene su propio `README.md` con detalles, objetivos, pasos realizados y resultados.
+Este repositorio reúne los ejercicios del bootcamp de bases de datos de Factoria F5. Cada mini-proyecto contiene su propio `README.md` con detalles, objetivos, pasos realizados y resultados.
 
 ## Estructura del repositorio
 
@@ -11,7 +11,7 @@ Este repositorio recoge los ejercicios del bootcamp de bases de datos de Factori
 - `students-classrooms-courses/`: ejercicio de normalización y diagramas ER. 
 
 
-## Mini proyectos incluidos
+## Mini-proyectos incluidos
 
 1. **Students-Classrooms-Courses**
    - Normalización de una tabla.
