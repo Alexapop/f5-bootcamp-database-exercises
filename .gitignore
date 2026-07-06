@@ -1,0 +1,30 @@
+# Editor
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+*.log
+
+# DBeaver
+.dbeaver/
+*.dbeaver-data-source.xml
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Otros
+node_modules/
