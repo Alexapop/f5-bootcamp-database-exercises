@@ -84,7 +84,10 @@ Ahora las claves primarias (PK) son:
 
 ## Entregables
 **Diagrama Chen**
+
+
 ![Diagrama de entidad-relación de Chen](./diagrama-chen.jpg)
 
 **Diagrama UML Patas de gallo**
+
 ![Diagrama UML Patas de gallo](./diagrama-uml-patas-de-gallo.jpg)

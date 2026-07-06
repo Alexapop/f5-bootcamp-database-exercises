@@ -8,14 +8,16 @@ Este repositorio reúne los ejercicios del bootcamp de bases de datos de Factori
 - `any-company-global/`: ejercicio de normalización y consultas SQL con SQLite.
 - `docker-image-container/`: ejercicio de creación y uso de contenedor Docker con MySQL.
 - `sql-sales/`: ejercicio de SQL sobre datos de ventas y consultas agregadas.
-- `students-classrooms-courses/`: ejercicio de normalización y diagramas ER. 
+- `students-classrooms-courses/`: ejercicio de normalización y diagramas ER.
 
 
 ## Mini-proyectos incluidos
 
 1. **Students-Classrooms-Courses**
-   - Normalización de una tabla.
+   - Normalización completa (1NF, 2NF, 3NF).
+   - Modelo final con `students`, `courses` y `classrooms`.
    - Diagramas ER (Chen) y de tipo patas de gallo.
+   - [Ver en GitHub](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/students-classrooms-courses)
 
 2. **Any Company Global**
    - Normalización de datos de ventas.
