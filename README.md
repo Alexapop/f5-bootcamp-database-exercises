@@ -17,7 +17,7 @@ Este repositorio reúne los ejercicios del bootcamp de bases de datos de Factori
    - Normalización completa (1NF, 2NF, 3NF).
    - Modelo final con `students`, `courses` y `classrooms`.
    - Diagramas ER (Chen) y de tipo patas de gallo.
-   - [Ver en GitHub](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/students-classrooms-courses)
+   - [Ver proyecto](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/students-classrooms-courses)
 
 2. **Any Company Global**
    - Normalización de datos de ventas.
