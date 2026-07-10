@@ -29,11 +29,13 @@ Este repositorio reúne los ejercicios del bootcamp de bases de datos de Factori
    - Conexión al contenedor desde DBeaver.
    - Creación de la base de datos `pets_db` y de la tabla `pets`.
    - Publicación de la imagen en Docker Hub.
-- [Ver proyecto](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/docker-image-container)
+   - [Ver proyecto](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/docker-image-container)
 
 4. **SQL - Sales**
-   - Implementación de consultas SQL sobre un conjunto de datos de ventas.
-   - Uso de funciones de agrupación y filtros.
-   - Documentación de los scripts y resultados.
+   - Creación de una base de datos MySQL en Docker.
+   - Creación de la tabla `sales` e inserción de datos con script SQL.
+   - Consultas sobre categorías, subcategorías y unidades vendidas.
+   - Cálculo de unidades totales vendidas y unidades del continente americano.
+   - [Ver proyecto](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/sql-sales)
 
 
