@@ -21,8 +21,9 @@ Este repositorio reúne los ejercicios del bootcamp de bases de datos de Factori
 
 2. **Any Company Global**
    - Normalización de datos de ventas.
-   - Creación de la base de datos en SQLite/DBeaver.
+   - Creación de la base de datos en DBeaver.
    - Script SQL para obtener el país asociado a una venta.
+   - [Ver proyecto](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/students-classrooms-courses)
 
 3. **Docker image & container**
    - Creación y despliegue de un contenedor MySQL con Docker.
