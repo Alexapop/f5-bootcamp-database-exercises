@@ -26,8 +26,10 @@ Este repositorio reúne los ejercicios del bootcamp de bases de datos de Factori
 
 3. **Docker image & container**
    - Creación y despliegue de un contenedor MySQL con Docker.
-   - Conexión desde herramientas externas (DBeaver/MySQL Workbench).
-   - Creación de una base de datos `pets_db` y la tabla `pets`.
+   - Conexión al contenedor desde DBeaver.
+   - Creación de la base de datos `pets_db` y de la tabla `pets`.
+   - Publicación de la imagen en Docker Hub.
+- [Ver proyecto](https://github.com/Alexapop/f5-bootcamp-database-exercises/tree/main/docker-image-container)
 
 4. **SQL - Sales**
    - Implementación de consultas SQL sobre un conjunto de datos de ventas.
