@@ -15,4 +15,42 @@ El objetivo es transformar la tabla `sales_not_normalized` en un diseño relacio
 - Normaliza la base de datos sin perder las relaciones en DBeaver (En la sección diagrama de la base de datos) (Pista: PK (primary key), FK, (foreign key))
 - Crea un script para obtener el país donde se realizo la venta con id 3. Output esperado: Canada
 
+
+# Normalización de la Base de Datos
+
+## Descripción
+
+La tabla original `sales_not_normalized`
+
+![sales_not_normalized](./sales_not_normalized.jpg) almacenaba toda la información de las ventas en una sola tabla. 
+Para solucionar este problema, la base de datos fue normalizada , separando la información en entidades independientes y utilizando Claves Primarias (PK) y Claves Foráneas (FK).
+
+---
+
+## Relaciones
+
+- Continent **(1:N)** Country
+- Country **(1:N)** City
+- Food_Category **(1:N)** Food_Subcategory
+- Sales **(M:N)** City → resuelta mediante **Sales_Cities**
+- Sales **(M:N)** Food_Subcategory → resuelta mediante **Sales_Food_Subcategories**
+
+---
+
 ## Entregables
+
+#### Diagrama Entidad-Relación (Chen)
+
+![Diagrama Chen](diagrama-chen.jpg)
+
+---
+
+#### Diagrama DBeaver
+
+![Diagrama DBeaver](diagrama-dbeaver.jpg)
+
+---
+
+#### Script SQL
+
+![Script SQL](output-esperado-canada.jpg)
